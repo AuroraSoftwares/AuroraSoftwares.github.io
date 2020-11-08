@@ -1,0 +1,46 @@
+.app-icon
+{
+	display:inline-block;
+	width:180px;
+	height:180px;
+	background:url('../images/favicon.ico');
+	background-size:cover;
+	background-position:center;
+}
+
+.featured-item
+{
+	width:80%;
+	height:320px;
+	padding:2rem;
+	background:url('../images/featured-background.jpg');
+	background-size:cover;
+	background-position:center;
+}
+.featured-item .featured-icon
+{
+	display:inline-block;
+	width:80px;
+	height:80px;
+	border:2px #fff solid;
+	border-radius:1rem;
+}
+.featured-item .featured-header
+{
+	display:inline-block;
+	color:#fff;
+	font-size:40px;
+	font-weight:bold;
+}
+.featured-item .featured-description
+{
+	display:inline-block;
+	height:40px;
+	color:#fff;
+	font-size:16px;
+	overflow:hidden;
+}
+.featured-item .featured-item-link-button
+{
+	width:140px;
+}
